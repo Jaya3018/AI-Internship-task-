@@ -1,0 +1,9 @@
+{
+    "conversations": [
+      ["Hello", "Hi there!"],
+      ["How are you?", "I’m good, thanks! How about you?"],
+      ["What’s your name?", "I’m Grok, nice to meet you!"],
+      ["What can you do?", "I can chat with you and help with simple tasks."],
+      ["Goodbye", "See you later!"]
+    ]
+  }
